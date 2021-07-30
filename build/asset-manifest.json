@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/olympics-quiz/static/css/main.16503a45.chunk.css",
+    "main.js": "/olympics-quiz/static/js/main.6c1065fe.chunk.js",
+    "main.js.map": "/olympics-quiz/static/js/main.6c1065fe.chunk.js.map",
+    "runtime-main.js": "/olympics-quiz/static/js/runtime-main.3ec39e26.js",
+    "runtime-main.js.map": "/olympics-quiz/static/js/runtime-main.3ec39e26.js.map",
+    "static/css/2.86fbe410.chunk.css": "/olympics-quiz/static/css/2.86fbe410.chunk.css",
+    "static/js/2.7222d0e3.chunk.js": "/olympics-quiz/static/js/2.7222d0e3.chunk.js",
+    "static/js/2.7222d0e3.chunk.js.map": "/olympics-quiz/static/js/2.7222d0e3.chunk.js.map",
+    "index.html": "/olympics-quiz/index.html",
+    "precache-manifest.48a7f850ee4fd7bca486ab929f23ed0d.js": "/olympics-quiz/precache-manifest.48a7f850ee4fd7bca486ab929f23ed0d.js",
+    "service-worker.js": "/olympics-quiz/service-worker.js",
+    "static/css/2.86fbe410.chunk.css.map": "/olympics-quiz/static/css/2.86fbe410.chunk.css.map",
+    "static/css/main.16503a45.chunk.css.map": "/olympics-quiz/static/css/main.16503a45.chunk.css.map",
+    "static/js/2.7222d0e3.chunk.js.LICENSE.txt": "/olympics-quiz/static/js/2.7222d0e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ec39e26.js",
+    "static/css/2.86fbe410.chunk.css",
+    "static/js/2.7222d0e3.chunk.js",
+    "static/css/main.16503a45.chunk.css",
+    "static/js/main.6c1065fe.chunk.js"
+  ]
+}
